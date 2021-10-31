@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/button_scoanry.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/edit_text.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/edit_text_rac.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/edittext_background.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/header_auth.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/ic_bank_information.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/drawable/progress.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_bottom.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_homer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/activity_verification_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/app_bar_homer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/app_bar_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/content_homer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/edittext_background.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_bank_information.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_email_change.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_email_confirmation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_evaluation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_map.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_order_archive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_password_change.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_saved_places.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/fragment_support.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/header_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/nav_drawer_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/nav_header_homer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/saved_item_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/layout/toolbar_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/menu/activity_homer_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/menu/homer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/menu/mobile_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dev/Jadeeercaptinapp/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

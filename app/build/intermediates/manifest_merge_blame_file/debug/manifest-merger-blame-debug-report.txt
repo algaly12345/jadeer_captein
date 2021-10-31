@@ -1,0 +1,222 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jadeeer.jadeeercaptinapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:35:5-79
+11-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:35:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:36:5-81
+12-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:36:22-78
+13    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+13-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:37:5-85
+13-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:37:22-82
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:38:5-80
+14-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:38:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:39:5-81
+15-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:39:22-78
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:41:5-67
+16-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:41:22-64
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+17-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:10:5-76
+17-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:10:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:23:5-79
+18-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:23:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:28:9-32
+23
+24    <queries>
+24-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:30:5-34:15
+25
+26        <!-- Needs to be explicitly declared on Android R+ -->
+27        <package android:name="com.google.android.apps.maps" />
+27-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:33:9-64
+27-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:33:18-61
+28    </queries>
+29
+30    <application
+30-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:5:5-34:19
+31        android:allowBackup="true"
+31-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:6:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.5.0] C:\Users\Dev\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:7:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:8:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:9:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:10:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.Jadeeercaptinapp" >
+39-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:11:9-54
+40        <activity
+40-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:12:9-14:39
+41            android:name="com.jadeeer.jadeeercaptinapp.Activities.VerificationCodeActivity"
+41-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:13:13-64
+42            android:exported="true" />
+42-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:14:13-36
+43        <activity
+43-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:15:9-18:73
+44            android:name="com.jadeeer.jadeeercaptinapp.Activities.LoginActivity"
+44-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:16:13-53
+45            android:exported="true"
+45-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:17:13-36
+46            android:theme="@style/Theme.Jadeeercaptinapp.NoActionBar" />
+46-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:18:13-70
+47        <activity
+47-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:19:9-22:73
+48            android:name="com.jadeeer.jadeeercaptinapp.HomerActivity"
+48-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:20:13-42
+49            android:exported="true"
+49-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:21:13-36
+50            android:theme="@style/Theme.Jadeeercaptinapp.NoActionBar" />
+50-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:22:13-70
+51        <activity
+51-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:23:9-33:20
+52            android:name="com.jadeeer.jadeeercaptinapp.Activities.SplashScreen"
+52-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:24:13-52
+53            android:exported="true"
+53-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:25:13-36
+54            android:label="@string/app_name"
+54-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:26:13-45
+55            android:theme="@style/Theme.Jadeeercaptinapp.NoActionBar" >
+55-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:27:13-70
+56            <intent-filter>
+56-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:28:13-32:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:29:17-69
+57-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:29:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:31:17-77
+59-->C:\Users\Dev\Jadeeercaptinapp\app\src\main\AndroidManifest.xml:31:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:14:9-20:20
+63            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+63-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:15:13-91
+64            android:exported="false"
+64-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:16:13-37
+65            android:label="@string/places_autocomplete_label"
+65-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:17:13-62
+66            android:theme="@style/PlacesAutocompleteOverlay"
+66-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:18:13-61
+67            android:windowSoftInputMode="adjustResize" >
+67-->[com.google.android.libraries.places:places:2.4.0] C:\Users\Dev\.gradle\caches\transforms-3\55b45a46cf5b64d402dcfa19f7663c9c\transformed\jetified-places-2.4.0\AndroidManifest.xml:19:13-55
+68        </activity> <!-- Needs to be explicitly declared on P+ -->
+69        <uses-library
+69-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:39:9-41:40
+70            android:name="org.apache.http.legacy"
+70-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:40:13-50
+71            android:required="false" />
+71-->[com.google.android.gms:play-services-maps:18.0.0] C:\Users\Dev\.gradle\caches\transforms-3\872e421efae0910b8cc2643335a8c51a\transformed\jetified-play-services-maps-18.0.0\AndroidManifest.xml:41:13-37
+72
+73        <service
+73-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:17:9-23:19
+74            android:name="com.google.firebase.components.ComponentDiscoveryService"
+74-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:18:13-84
+75            android:directBootAware="true"
+75-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+76            android:exported="false" >
+76-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:19:13-37
+77            <meta-data
+77-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:20:13-22:85
+78                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+78-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:21:17-111
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-firestore:23.0.4] C:\Users\Dev\.gradle\caches\transforms-3\8fa2f008e0a0b01177e8cb7a8c719afa\transformed\jetified-firebase-firestore-23.0.4\AndroidManifest.xml:22:17-82
+80        </service>
+81
+82        <meta-data
+82-->[com.google.maps.android:android-maps-utils:2.2.0] C:\Users\Dev\.gradle\caches\transforms-3\6097ad9275d4bc5b06a4fcfd4413ebaf\transformed\jetified-android-maps-utils-2.2.0\AndroidManifest.xml:12:9-14:69
+83            android:name="com.google.android.gms.version"
+83-->[com.google.maps.android:android-maps-utils:2.2.0] C:\Users\Dev\.gradle\caches\transforms-3\6097ad9275d4bc5b06a4fcfd4413ebaf\transformed\jetified-android-maps-utils-2.2.0\AndroidManifest.xml:13:13-58
+84            android:value="@integer/google_play_services_version" />
+84-->[com.google.maps.android:android-maps-utils:2.2.0] C:\Users\Dev\.gradle\caches\transforms-3\6097ad9275d4bc5b06a4fcfd4413ebaf\transformed\jetified-android-maps-utils-2.2.0\AndroidManifest.xml:14:13-66
+85
+86        <provider
+86-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+87            android:name="com.google.firebase.provider.FirebaseInitProvider"
+87-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+88            android:authorities="com.jadeeer.jadeeercaptinapp.firebaseinitprovider"
+88-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+89            android:directBootAware="true"
+89-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+90            android:exported="false"
+90-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+91            android:initOrder="100" />
+91-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Dev\.gradle\caches\transforms-3\f9c7714b4c1ce75746b2517f85bd4fd9\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Dev\.gradle\caches\transforms-3\fdeeb48d61044c1a147c290814c30817\transformed\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Dev\.gradle\caches\transforms-3\fdeeb48d61044c1a147c290814c30817\transformed\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Dev\.gradle\caches\transforms-3\fdeeb48d61044c1a147c290814c30817\transformed\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Dev\.gradle\caches\transforms-3\fdeeb48d61044c1a147c290814c30817\transformed\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+97
+98        <provider
+98-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev\.gradle\caches\transforms-3\5a9dbe371fb5b6de27c2a22db9163964\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+99            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+99-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev\.gradle\caches\transforms-3\5a9dbe371fb5b6de27c2a22db9163964\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+100            android:authorities="com.jadeeer.jadeeercaptinapp.lifecycle-process"
+100-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev\.gradle\caches\transforms-3\5a9dbe371fb5b6de27c2a22db9163964\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+101            android:exported="false"
+101-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev\.gradle\caches\transforms-3\5a9dbe371fb5b6de27c2a22db9163964\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+102            android:multiprocess="true" />
+102-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev\.gradle\caches\transforms-3\5a9dbe371fb5b6de27c2a22db9163964\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+103
+104        <service
+104-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+105            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+105-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+106            android:exported="false" >
+106-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+107            <meta-data
+107-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+108                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+108-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+109                android:value="cct" />
+109-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Dev\.gradle\caches\transforms-3\1ce4b8a570316d6189f2eebb52248459\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+110        </service>
+111        <service
+111-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+112            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+112-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+113            android:exported="false"
+113-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+114            android:permission="android.permission.BIND_JOB_SERVICE" >
+114-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+115        </service>
+116
+117        <receiver
+117-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+118            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+118-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+119            android:exported="false" />
+119-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Dev\.gradle\caches\transforms-3\ac61c0aca0ca99784caec93a7a685b77\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+120    </application>
+121
+122</manifest>

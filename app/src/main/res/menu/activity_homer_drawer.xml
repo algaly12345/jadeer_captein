@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/nav_login"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_login_select"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="تسجيل الدخول" />
+
+    </group>
+
+    <group
+        android:id="@+id/nav_home"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/home" />
+    </group>
+
+    <group
+        android:id="@+id/nav_communication_group1"
+        android:checkableBehavior="single">
+
+
+    </group>
+
+
+
+
+
+    <group
+        android:id="@+id/nav_communication_grou"
+        android:checkableBehavior="single">
+
+
+    </group>
+
+
+    <group
+        android:id="@+id/nav_communication_gr"
+
+        android:checkableBehavior="single">
+
+
+
+    </group>
+
+
+
+
+
+
+
+    <group
+        android:id="@+id/nav_communication_group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/wallet" />
+    </group>
+
+    <group
+        android:id="@+id/nav_communication_group"
+        android:checkableBehavior="single">
+
+
+    </group>
+
+
+
+
+    <group
+        android:id="@+id/nav_Exit"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/n_exit"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="خروج" />
+    </group>
+
+</menu>

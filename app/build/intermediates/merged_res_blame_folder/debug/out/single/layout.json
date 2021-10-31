@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_evaluation.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_evaluation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_email_change.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_email_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_wallet.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_layout.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_book.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notiy.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_notiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_drawer_layout.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\nav_drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_support.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_verification_code.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\activity_verification_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\test.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_layout.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_orders.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_password_change.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_password_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\Dev\\Jadeeercaptinapp\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    }
+]

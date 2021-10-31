@@ -1,0 +1,98 @@
+com/jadeeer/jadeeercaptinapp/HomerActivity.java
+ com.jadeeer.jadeeercaptinapp.HomerActivity
+com/jadeeer/jadeeercaptinapp/Activities/VerificationCodeActivity.java
+ com.jadeeer.jadeeercaptinapp.Activities.VerificationCodeActivity
+ com.jadeeer.jadeeercaptinapp.Activities.VerificationCodeActivity$1
+com/jadeeer/jadeeercaptinapp/ui/home/HomeViewModel.java
+ com.jadeeer.jadeeercaptinapp.ui.home.HomeViewModel
+com/jadeeer/jadeeercaptinapp/Fragments/OrderBookFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.OrderBookFragment
+com/jadeeer/jadeeercaptinapp/databinding/FragmentSupportBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentSupportBinding
+com/jadeeer/jadeeercaptinapp/databinding/ToolbarLayoutBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.ToolbarLayoutBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentSettingsBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentSettingsBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentEmailChangeBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentEmailChangeBinding
+com/jadeeer/jadeeercaptinapp/Activities/SplashScreen.java
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$1
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$10
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$2
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$3
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$4
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$4$1
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$5
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$6
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$7
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$8
+ com.jadeeer.jadeeercaptinapp.Activities.SplashScreen$9
+com/jadeeer/jadeeercaptinapp/BuildConfig.java
+ com.jadeeer.jadeeercaptinapp.BuildConfig
+com/jadeeer/jadeeercaptinapp/SavedPlaceModel.java
+ com.jadeeer.jadeeercaptinapp.SavedPlaceModel
+com/jadeeer/jadeeercaptinapp/Fragments/ProfileFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.ProfileFragment
+com/jadeeer/jadeeercaptinapp/databinding/FragmentWalletBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentWalletBinding
+com/jadeeer/jadeeercaptinapp/Fragments/PasswordChangeFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.PasswordChangeFragment
+com/jadeeer/jadeeercaptinapp/Activities/LoginActivity.java
+ com.jadeeer.jadeeercaptinapp.Activities.LoginActivity
+ com.jadeeer.jadeeercaptinapp.Activities.LoginActivity$1
+com/jadeeer/jadeeercaptinapp/ui/slideshow/SlideshowFragment.java
+ com.jadeeer.jadeeercaptinapp.ui.slideshow.SlideshowFragment
+ com.jadeeer.jadeeercaptinapp.ui.slideshow.SlideshowFragment$1
+com/jadeeer/jadeeercaptinapp/Fragments/SettingsFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.SettingsFragment
+com/jadeeer/jadeeercaptinapp/ui/slideshow/SlideshowViewModel.java
+ com.jadeeer.jadeeercaptinapp.ui.slideshow.SlideshowViewModel
+com/jadeeer/jadeeercaptinapp/databinding/FragmentSlideshowBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentSlideshowBinding
+com/jadeeer/jadeeercaptinapp/databinding/ActivityMainBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.ActivityMainBinding
+com/jadeeer/jadeeercaptinapp/Fragments/HomeFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.HomeFragment
+com/jadeeer/jadeeercaptinapp/databinding/HeaderLayoutBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.HeaderLayoutBinding
+com/jadeeer/jadeeercaptinapp/ui/home/HomeFragment.java
+ com.jadeeer.jadeeercaptinapp.ui.home.HomeFragment
+com/jadeeer/jadeeercaptinapp/databinding/TestBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.TestBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentProfileBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentProfileBinding
+com/jadeeer/jadeeercaptinapp/databinding/ActivityLoginBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.ActivityLoginBinding
+com/jadeeer/jadeeercaptinapp/databinding/ActivitySplashBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.ActivitySplashBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentBookBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentBookBinding
+com/jadeeer/jadeeercaptinapp/Fragments/SupportFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.SupportFragment
+com/jadeeer/jadeeercaptinapp/SavedLocationInterface.java
+ com.jadeeer.jadeeercaptinapp.SavedLocationInterface
+com/jadeeer/jadeeercaptinapp/Fragments/WaletFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.WaletFragment
+com/jadeeer/jadeeercaptinapp/databinding/NavDrawerLayoutBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.NavDrawerLayoutBinding
+com/jadeeer/jadeeercaptinapp/Fragments/OrdersFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.OrdersFragment
+com/jadeeer/jadeeercaptinapp/databinding/ActivityVerificationCodeBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.ActivityVerificationCodeBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentOrdersBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentOrdersBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentNotiyBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentNotiyBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentEvaluationBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentEvaluationBinding
+com/jadeeer/jadeeercaptinapp/Fragments/NotiyFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.NotiyFragment
+com/jadeeer/jadeeercaptinapp/Fragments/EvaluationFragment.java
+ com.jadeeer.jadeeercaptinapp.Fragments.EvaluationFragment
+com/jadeeer/jadeeercaptinapp/databinding/FragmentMapBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentMapBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentPasswordChangeBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentPasswordChangeBinding
+com/jadeeer/jadeeercaptinapp/databinding/FragmentHomeBinding.java
+ com.jadeeer.jadeeercaptinapp.databinding.FragmentHomeBinding

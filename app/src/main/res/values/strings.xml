@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">كابتن جدير</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الاعدادت</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="FCM_PREF" translatable="false">com.app.sulation.sudanschools.fcm_pref</string>
+    <string name="FCM_TOKEN" translatable="false">com.app.sulation.sudanschools.fcm_token</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="testk">key_test_laUV25qsb2j4iPjBFhL9xnhdvzdBkfIV</string>
+    <string name="branch_key">key_live_gpJS04rCf2d5nQasviIRYhfcyxeFkoIF</string>
+    <string name="giveLocatPermm">الرجاء منح التطبيق صلاحيه الوصول للموقع</string>
+    <string name="yesdenyLoca">أنا متأكد من المنع</string>
+    <string name="tryAgain">أعد المحاولة</string>
+    <string name="openInternt">الرجاء الإتصال بالإنترنت </string>
+    <string name="chechCon">الرجاء التأكد من الإتصال ثم المحاولة</string>
+    <string name="newVersion">توجد إصدار جديد من التطبيق إضغط موافق لتحديثها ..</string>
+    <string name="location_permission">الرجاء إعطاء التطبيق صلاحيه الوصول للموقع</string>
+    <string name="slide_1_title">  زاﺟﻞ اﻟﺴﻌﺎدة</string>
+
+    <string name="slide_2_title">ﺧﺪﻣﺔ اﻟﻌﻤﻼء ﻋﻠﻰ ﻣﺪار اﻟﺴﺎﻋﺔ</string>
+
+    <string name="slide_3_title">اﻟﺘﻄﺒﻴﻖ ﻳﺨﺪم ﺟﻤﻴﻊ ﻣﻨﺎﻃﻖ اﻟﻤﻤﻠﻜﺔ</string>
+
+    <string name="slide_4_title">اﺳﺘﻠﻢ ﻛﺎﻣﻞ ﻣﺒﻠﻎ اﻟﺘﻮﺻﻴﻞ دون ﻋﻤﻮﻟﺔ</string>
+    <string name="no_internet">لايوجد انترنت </string>
+
+
+    <!-- home screen text-->
+    <string name="slogen">Teach your children for a time other than your time</string>
+
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+
+    <!-- drawer strings -->
+    <string name="show_password">إظهار كود المرور</string>
+    <string name="login">تسجيل دخول </string>
+    <string name="setting">الاعدادت</string>
+
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">تم</string>
+    <string name="cencel">الغاء</string>
+    <string name="sorry">عفوا</string>
+    <string name="dialog_details">تفاصبل</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="otp"><![CDATA[<font color="#a3a3a3">ارسلنا لك رمز التحقق</font> <font color="#000000">One Time Password</font> <font color="#a3a3a3">on this mobile number</font>]]></string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">ادخل كود التحقق المرب </font> <font color="#000000">+96-6550-000-0104</font>]]></string>
+    <string name="likeagent">كمندوب</string>
+    <string name="likecustomer">كعميل</string>
+
+    <string name="home">الرئسية</string>
+    <string name="title_activity_maps_main">Map</string>
+    <string name="conntect">متصل</string>
+    <string name="noconntect">غير متصل</string>
+
+
+    <string name="card">السلة</string>
+
+
+    <string name="API_KEY">YOUR_API_KEY</string>
+
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+
+    <string name="open_navigation_drawer">Open Drawer</string>
+    <string name="close_navigation_drawer">Open Drawer</string>
+    <string name="book_order">سجل الطلبات</string>
+    <string name="map">الخريطة</string>
+    <string name="orders">الطلبات</string>
+    <string name="wallet">المحفظة</string>
+    <string name="profile_captein">ملف الكابن</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="evaluation">التقيم</string>
+    <string name="bank_information">المعلومات البنكية</string>
+    <string name="support">الدعم الفني</string>
+    <string name="permission_denied">منح الصلاحية</string>
+    <string name="yes_denyLocation">أنا متأكد من المنع</string>
+    <string name="giveLocation_permission">الرجاء منح التطبيق صلاحيه الوصول للموقع</string>
+    <string name="openInternet">الرجاء الإتصال بالإنترنت </string>
+    <string name="check_connection">الرجاء التأكد من الإتصال ثم المحاولة</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="enter_verify_code">ادخل كود التحقق المرسل اليك</string>
+    <string name="verfication">تحقق</string>
+
+</resources>

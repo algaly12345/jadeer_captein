@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btnHome"
+
+            android:icon="@drawable/ic_order"
+            android:title="@string/orders" />
+
+        <item
+            android:id="@+id/btnSavedPlaces"
+            android:icon="@drawable/ic_waller"
+            android:title="@string/wallet" />
+
+        <item
+            android:id="@+id/btnSetting"
+            android:icon="@drawable/ic_order"
+            android:title="@string/book_order" />
+
+
+        <item
+            android:id="@+id/btnProfile"
+            android:icon="@drawable/ic_person"
+            android:title="@string/profile_captein" />
+
+        <item
+            android:id="@+id/btnNotification"
+            android:icon="@drawable/ic_notification"
+            android:title="@string/notifications" />
+
+        <item
+            android:id="@+id/btnEvaluation"
+            android:icon="@drawable/ic_evaluation"
+            android:title="@string/notifications" />
+
+
+        <item
+            android:id="@+id/btnBankInformation"
+            android:icon="@drawable/ic_bank_information"
+            android:title="@string/bank_information" />
+
+
+    </group>
+
+    <item android:title="">
+        <menu>
+
+            <item
+                android:id="@+id/btnSettings"
+                android:icon="@drawable/ic_setting"
+                android:title="@string/setting" />
+
+
+            <item
+                android:id="@+id/btnSupport"
+                android:icon="@drawable/ic_support"
+                android:title="@string/support" />
+        </menu>
+    </item>
+
+</menu>
